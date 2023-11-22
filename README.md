@@ -2,8 +2,15 @@
 Welcome to my readme file
 This repository contains the initial stage of a group airBnB project to build a clone of the AirBnB website. This stage implements a backend interface, or console, to manage program data. Console commands allow the user to create, update, and destroy objects, as well as manage file storage. Using a system of JSON serialization/deserialization, storage is persistent between sessions.
 
-## Resipository content by the project task given :
-\
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Repository Contents by Project Task
+
+
+
+``` git clone https://github.com/Paulos-ui/AirBnB_clone.git ```
+
 change to the *AirBnb* directory and run the command:
 ` ./console.py `
 
